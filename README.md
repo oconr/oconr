@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oconr&label=Profile%20views&color=0e75b6&style=flat" alt="oconr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oconr" alt="oconr" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/oconrdev" target="blank"><img src="https://img.shields.io/twitter/follow/oconrdev?logo=twitter&style=for-the-badge" alt="oconrdev" /></a> </p>
-
 - 🔭 I’m currently working on [K-Collect](https://kcollect.net)
 
 - 👯 I’m looking to collaborate on [Zephyr](https://shd.network)
@@ -38,9 +34,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/oconr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="oconr" /></a><a href="https://ko-fi.com/oconr"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="oconr" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oconr&show_icons=true&locale=en&layout=compact" alt="oconr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oconr&show_icons=true&locale=en" alt="oconr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oconr&theme=default" alt="oconr" /></p>
